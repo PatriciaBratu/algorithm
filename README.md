@@ -1,1 +1,3 @@
-Acesta este fisierul readme 
+Sorting Algorithm for Integer Arrays
+
+New uptade
